@@ -77,9 +77,16 @@ The FIFO buffer is implemented as:
 
 ## 📁 **Directory Structure**
 
+```
+synchronous-fifo-verilog/
+├── src/
+│ └── fifo_syn.v # Main FIFO module
+├── tb/
+│ └── fifo_syn_tb.v # (Optional) Testbench
+├── README.md # Project documentation
+```
 
-
----
+------
 
 ## 📚 **License**
 
